@@ -1,4 +1,4 @@
-# College Management System - Laravel - [@prakashZip](github.com/prakashZip)
+# College Management System - Laravel - [@prakashZip](https://github.com/prakashZip)
 
 ## Overview
 
@@ -91,7 +91,7 @@ This College Management System is designed for educational institutions to effic
 ## Contributors
 
 - Satya Prakash Sahoo
-- [Satyaprakash.od@gmail.com](Satyaprakash.od@gmail.com)
+- [Satyaprakash.od@gmail.com](mailto:Satyaprakash.od@gmail.com)
 
 Feel free to contribute by forking the repository and submitting pull requests.
 
