@@ -81,7 +81,7 @@
     repository.
 </p>
 
-<h2>Contributors</h2>h2>
+<h2>Contributors</h2>
 <dl>
 <dd>Satya Prakash Sahoo</dd>
 <dd><a href="Satyaprakash.od@gmail.com">Satyaprakash.od@gmail.com</a></dd>
