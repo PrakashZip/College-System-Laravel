@@ -1,4 +1,4 @@
-# College Management System - Laravel
+# College Management System - Laravel - [@prakashZip](github.com/prakashZip)
 
 ## Overview
 
